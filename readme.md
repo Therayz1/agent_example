@@ -12,5 +12,6 @@
 
 
 # Manus AI Streamlit Arayüz
-![Image](https://github.com/user-attachments/assets/2a4f5ee6-4711-4be8-8a0c-55c43677523a)
 ![Image](https://github.com/user-attachments/assets/e559b791-e20a-4dfc-ad30-2765354012c2)
+![Image](https://github.com/user-attachments/assets/2a4f5ee6-4711-4be8-8a0c-55c43677523a)
+
