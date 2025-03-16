@@ -1,0 +1,5 @@
+tweepy
+textblob
+matplotlib
+streamlit>=1.32.0
+asyncio>=3.4.3
