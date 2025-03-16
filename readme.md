@@ -9,3 +9,8 @@
 * 1- Open Router web sitesine girin ve search kısmına deepseek yazın ve  r1 70 (free)... şeklinde olan modele basın ve sayfası açılsın. Daha sonra api kısmına gelip, "create api key" ile api oluşturup kopyalayıp. En baştaki api kısmına ekleyebilirsiniz!
 * 2- Python içerisinde bir dosya oluşturun ve bu spyaya kodları yapıştırın! terminalde kod dosyanızın bulduğu dizine gelip. --> streamlit run dosya_adi.p ile çalıştırın!
 * Kullanmaya başlayabilirsiniz.
+
+
+# Manus AI Streamlit Arayüz
+![Image](https://github.com/user-attachments/assets/2a4f5ee6-4711-4be8-8a0c-55c43677523a)
+![Image](https://github.com/user-attachments/assets/e559b791-e20a-4dfc-ad30-2765354012c2)
